@@ -57,8 +57,7 @@ This is an AI-powered resume analysis tool built with **Streamlit** and **OpenAI
 
 ## 📸 Screenshot
 
-Here is a screenshot of the research assistant running in the terminal:
-
+Here is a screenshot of the AI Resume Analyst using Streamlit
 ![AI Resume Analyst](images/resume.png)
 
 ## 🔐 Disclaimer
