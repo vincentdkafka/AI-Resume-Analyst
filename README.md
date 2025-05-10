@@ -55,6 +55,12 @@ This is an AI-powered resume analysis tool built with **Streamlit** and **OpenAI
    uv run streamlit run python main.py (I have used UV for Package management, if you are using Pip use normal command)
    ```
 
+## 📸 Screenshot
+
+Here is a screenshot of the research assistant running in the terminal:
+
+![AI Resume Analyst](images/resume.png)
+
 ## 🔐 Disclaimer
    This tool uses the OpenAI API. Keep your API key secure and avoid uploading sensitive or confidential personal information.
 
