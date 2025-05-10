@@ -52,7 +52,7 @@ This is an AI-powered resume analysis tool built with **Streamlit** and **OpenAI
 
 6. **Run the app:**
    ```
-     streamlit run python main.py
+   uv run streamlit run python main.py (I have used UV for Package management, if you are using Pip use normal command)
    ```
 
 ## 🔐 Disclaimer
